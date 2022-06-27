@@ -1,0 +1,31 @@
+<configs>
+
+<!-- Reduce quest reward by ~80% except tier 4-->
+
+<!-- Fetch -->
+<set xpath="quests/quest[@id='tier1_fetch']/reward[@id='casinoCoin']/@value">260</set>
+<set xpath="quests/quest[@id='tier2_fetch']/reward[@id='casinoCoin']/@value">450</set>
+<set xpath="quests/quest[@id='tier3_fetch']/reward[@id='casinoCoin']/@value">640</set>
+<!-- <set xpath="quests/quest[@id='tier4_fetch']/reward[@id='casinoCoin']/@value">1020</set> -->
+<set xpath="quests/quest[@id='tier5_fetch']/reward[@id='casinoCoin']/@value">1600</set>
+
+<!-- Clear -->
+<set xpath="quests/quest[@id='tier1_clear']/reward[@id='casinoCoin']/@value">640</set>
+<set xpath="quests/quest[@id='tier2_clear']/reward[@id='casinoCoin']/@value">1080</set>
+<set xpath="quests/quest[@id='tier3_clear']/reward[@id='casinoCoin']/@value">1440</set>
+<!-- <set xpath="quests/quest[@id='tier4_clear']/reward[@id='casinoCoin']/@value">2040</set> -->
+<set xpath="quests/quest[@id='tier5_clear']/reward[@id='casinoCoin']/@value">3200</set>
+
+<!-- Fetch and Clear -->
+<set xpath="quests/quest[@id='tier2_fetch_clear']/reward[@id='casinoCoin']/@value">1120</set>
+<set xpath="quests/quest[@id='tier3_fetch_clear']/reward[@id='casinoCoin']/@value">1600</set>
+<!-- <set xpath="quests/quest[@id='tier4_fetch_clear']/reward[@id='casinoCoin']/@value">2300</set> -->
+<set xpath="quests/quest[@id='tier5_fetch_clear']/reward[@id='casinoCoin']/@value">3680</set>
+
+<!-- Increase next trader Exp -->
+<set xpath="quests/quest[@id='tier2_nexttrader']/reward[@type='Exp']/@value">5000</set>
+<set xpath="quests/quest[@id='tier3_nexttrader']/reward[@type='Exp']/@value">10000</set>
+<set xpath="quests/quest[@id='tier4_nexttrader']/reward[@type='Exp']/@value">17500</set>
+<set xpath="quests/quest[@id='tier5_nexttrader']/reward[@type='Exp']/@value">25000</set>
+
+</configs>

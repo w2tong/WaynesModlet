@@ -1,0 +1,4 @@
+<configs>
+<set xpath="/traders/@buy_markup">2.5</set>
+<set xpath="/traders/@sell_markdown">0.5</set>
+</configs>

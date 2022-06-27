@@ -1,0 +1,83 @@
+<configs>
+	<set xpath="/lootcontainers/lootgroup[@name='groupQuestAmmo']">	
+		<item name="ammo9mmBulletBall" count="40" loot_prob_template="QuestT1Prob"/>
+		<item name="ammo9mmBulletBall" count="120" loot_prob_template="QuestT2Prob"/>
+		<item name="ammo9mmBulletBall" count="360" loot_prob_template="QuestT3Prob"/>
+
+		<item name="ammo9mmBulletHP" count="100" loot_prob_template="QuestT2Prob"/>
+		<item name="ammo9mmBulletHP" count="300" loot_prob_template="QuestT3Prob"/>
+		
+		<item name="ammo9mmBulletAP" count="80" loot_prob_template="QuestT2Prob"/>
+		<item name="ammo9mmBulletAP" count="250" loot_prob_template="QuestT3Prob"/>
+		
+		<item name="ammo44MagnumBulletBall" count="36" loot_prob_template="QuestT1Prob"/>
+		<item name="ammo44MagnumBulletBall" count="108" loot_prob_template="QuestT2Prob"/>
+		<item name="ammo44MagnumBulletBall" count="324" loot_prob_template="QuestT3Prob"/>
+		
+		<item name="ammo44MagnumBulletHP" count="86" loot_prob_template="QuestT2Prob"/>
+		<item name="ammo44MagnumBulletHP" count="260" loot_prob_template="QuestT3Prob"/>
+		
+		<item name="ammo44MagnumBulletAP" count="70" loot_prob_template="QuestT2Prob"/>
+		<item name="ammo44MagnumBulletAP" count="208" loot_prob_template="QuestT3Prob"/>
+	
+		<item name="ammoBlunderbuss" count="20" loot_prob_template="QuestT1Prob"/>
+
+		<item name="ammoShotgunShell" count="20" loot_prob_template="QuestT1Prob"/>
+		<item name="ammoShotgunShell" count="60" loot_prob_template="QuestT2Prob"/>
+		<item name="ammoShotgunShell" count="180" loot_prob_template="QuestT3Prob"/>
+		
+		<item name="ammoShotgunSlug" count="48" loot_prob_template="QuestT2Prob"/>
+		<item name="ammoShotgunSlug" count="144" loot_prob_template="QuestT3Prob"/>
+		
+		<item name="ammoShotgunBreachingSlug" count="15" loot_prob_template="QuestT2Prob"/>
+		<item name="ammoShotgunBreachingSlug" count="45" loot_prob_template="QuestT3Prob"/>
+
+		<item name="ammo762mmBulletBall" count="32" loot_prob_template="QuestT1Prob"/>
+		<item name="ammo762mmBulletBall" count="96" loot_prob_template="QuestT2Prob"/>
+		<item name="ammo762mmBulletBall" count="288" loot_prob_template="QuestT3Prob"/>
+		
+		<item name="ammo762mmBulletHP" count="76" loot_prob_template="QuestT2Prob"/>
+		<item name="ammo762mmBulletHP" count="230" loot_prob_template="QuestT3Prob"/>
+
+		<item name="ammo762mmBulletAP" count="60" loot_prob_template="QuestT2Prob"/>
+		<item name="ammo762mmBulletAP" count="184" loot_prob_template="QuestT3Prob"/>
+
+		<item name="ammoArrowIron" count="30" loot_prob_template="QuestT1Prob"/>
+		<item name="ammoArrowIron" count="90" loot_prob_template="QuestT2Prob"/>
+		
+		<item name="ammoCrossbowBoltIron" count="30" loot_prob_template="QuestT1Prob"/>
+		<item name="ammoCrossbowBoltIron" count="90" loot_prob_template="QuestT2Prob"/>
+		
+		<item name="ammoArrowSteelAP" count="172" loot_prob_template="QuestT3Prob"/>
+		
+		<item name="ammoCrossbowBoltSteelAP" count="172" loot_prob_template="QuestT3Prob"/>
+		
+		<item name="ammoArrowFlaming" count="40" loot_prob_template="QuestT2Prob"/>
+		<item name="ammoArrowFlaming" count="120" loot_prob_template="QuestT3Prob"/>
+		
+		<item name="ammoCrossbowBoltFlaming" count="40" loot_prob_template="QuestT2Prob"/>
+		<item name="ammoCrossbowBoltFlaming" count="120" loot_prob_template="QuestT3Prob"/>
+		
+		<item name="ammoArrowExploding" count="30" loot_prob_template="QuestT3Prob"/>
+
+		<item name="ammoCrossbowBoltExploding" count="30" loot_prob_template="QuestT3Prob"/>
+
+		<item name="thrownAmmoPipeBomb" count="8" loot_prob_template="QuestT1Prob"/>
+		<item name="thrownAmmoPipeBomb" count="16" loot_prob_template="QuestT2Prob"/>
+		
+		<item name="thrownDynamite" count="10" loot_prob_template="QuestT2Prob"/>
+		
+		<item name="thrownAmmoMolotovCocktail" count="10" loot_prob_template="QuestT1Prob"/>
+		<item name="thrownAmmoMolotovCocktail" count="20" loot_prob_template="QuestT2Prob"/>
+		
+		<item name="thrownGrenade" count="10"  loot_prob_template="QuestT2Prob"/>
+		<item name="thrownGrenade" count="25"  loot_prob_template="QuestT3Prob"/>
+		
+		<item name="thrownGrenadeContact" count="20" loot_prob_template="QuestT3Prob"/>
+		
+		<item name="thrownTimedCharge" count="10" loot_prob_template="QuestT3Prob"/>
+		
+		<item name="ammoRocketFrag" count="10" loot_prob_template="QuestT3Prob"/>
+		<item name="ammoRocketHE" count="10" loot_prob_template="QuestT3Prob"/>
+	</set>	
+</configs>
